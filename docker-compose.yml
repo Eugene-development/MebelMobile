@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  nuxt:
+    build:
+      context: .
+      dockerfile: ./docker/node/Dockerfile
+    container_name: lubamebel_app
+    restart: always
+    ports:
+      - "5000:5000"
+    command:
+      "npm run start"
+
+
+
+  nginx:
+    image: nginx:1.13
+    container_name: lubamebel_nginx
+    ports:
+      - "5000:80"
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx/conf.d/:/etc/nginx/conf.d/
+    depends_on:
+      - nuxt
