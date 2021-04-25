@@ -11,17 +11,17 @@
           <main class="h-50 pt-10 mb-20 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
             <div class="mt-10 sm:text-center lg:text-left">
               <h1 class="mb-10 font-sans text-4xl tracking-tight leading-10 font-semibold text-gray-900 sm:text-6xl sm:leading-none md:text-6xl">
-                Улучшаем вашу
+                Кухонные гарнитуры
                 <br class="xl:hidden">
-                <span class="text-teal-600">территорию</span>
+                <span class="text-teal-600">под ваши размеры</span>
               </h1>
               <hr>
               <p class="mt-10 text-base text-gray-500 sm:mt-8 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Корпусная мебель со склада и под заказ</p>
+                Выезд замерщика в черте города бесплатно</p>
               <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-md shadow">
                   <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-teal-800 hover:bg-teal-500 focus:outline-none focus:border-teal-800 focus:shadow-outline-teal transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
-                    Каталог
+                    Запись на замер
                   </a>
                 </div>
 <!--                <div class="mt-3 sm:mt-0 sm:ml-3">-->
@@ -333,10 +333,10 @@
       <div class="lg:text-center">
         <p class="text-base leading-6 text-teal-600 font-semibold tracking-wide uppercase"></p>
         <h2 class=" mt-2 text-6xl leading-12 font-extrabold tracking-tight text-gray-900 sm:text-5xl sm:leading-10">
-          Лидеры продаж
+          Варианты гарнитуров
         </h2>
         <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-          Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in accusamus quisquam.
+          Размер, цвет и комплектация подбирается с учётом ваших пожеланий при составлении проекта у вас дома.
         </p>
       </div>
     </div>
