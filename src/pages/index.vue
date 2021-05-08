@@ -10,6 +10,9 @@
 
           <main class="h-50 pt-10 mb-20 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
             <div class="mt-10 sm:text-center lg:text-left">
+              <p class="mb-10 font-sans tracking-tight leading-10 font-semibold text-gray-500 sm:text-2xl sm:leading-none md:text-2xl">
+                Компания "МебельМобайл"
+              </p>
               <h1 class="mb-10 font-sans text-4xl tracking-tight leading-10 font-semibold text-gray-900 sm:text-6xl sm:leading-none md:text-6xl">
                 Кухонные гарнитуры
                 <br class="xl:hidden">
@@ -49,7 +52,7 @@
             Опыт работы в цифрах
           </h2>
           <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet consequuntur cumque ea eum explicabo inventore laudantium, minima obcaecati quis recusandae.
+            Наша компания за годы работы достигла высокого уровня технологического процесса для эффективного и быстрого выполнения заказов на поставку мебели.
           </p>
         </div>
       </div>
@@ -77,10 +80,10 @@
                 </div>
                 <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
                   <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                    бригад монтажников в 80 городах
+                    бригад монтажников в 23 городах
                   </dt>
                   <dd class="order-1 text-5xl font-extrabold text-teal-600">
-                    345
+                    47
                   </dd>
                 </div>
               </dl>
@@ -102,7 +105,7 @@
             Доверьте работу профессионалу
           </h2>
           <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-            В нашей команде, только квалифицированные специалисты <br> с опытом работы более 10 лет.
+            В нашей команде, только квалифицированные специалисты <br> с опытом работы более 5 лет.
           </p>
         </div>
 
@@ -121,7 +124,7 @@
                 <div class="ml-4">
                   <h4 class="text-lg leading-6 font-medium text-gray-900">Гарантии</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, sapiente. Reprehenderit, ullam!
+                    Компания производитель предоставляет гарантийные обязательства на весь перечень продукции.
                   </p>
                 </div>
               </div>
@@ -139,7 +142,7 @@
                 <div class="ml-4">
                   <h4 class="text-lg leading-6 font-medium text-gray-900">Оборудование</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, nemo. Reprehenderit, ullam!
+                    Мебель изготавливается на современном оборудовании с соблюдением всех норм соответствия стандартам.
                   </p>
                 </div>
               </div>
@@ -157,7 +160,7 @@
                 <div class="ml-4">
                   <h4 class="text-lg leading-6 font-medium text-gray-900">Опыт</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, quam! Reprehenderit, ullam!
+                    Многолетний наработанный опыт даёт нам возможность предложить наиболее интересные решения в проектах.
                   </p>
                 </div>
               </div>
@@ -175,7 +178,7 @@
                 <div class="ml-4">
                   <h4 class="text-lg leading-6 font-medium text-gray-900">Поддержка</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, ullam! Reprehenderit, ullam!
+                    Мы всегда идём навстречу нашим клиентам и стараемся помочь в решении всех вопросов.
                   </p>
                 </div>
               </div>

@@ -37,27 +37,27 @@
             </div>
             <div class="mt-12 md:mt-0">
               <h4 class="text-lg leading-5 font-semibold text-gray-400 tracking-wider uppercase">
-                Каталог
+                Материалы
               </h4>
               <ul class="mt-4 space-y-4">
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    тест
+                    МДФ
                   </a>
                 </li>
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    тест
+                    ПВХ
                   </a>
                 </li>
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    тест
+                    Пластик
                   </a>
                 </li>
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    тест
+                    Массив
                   </a>
                 </li>
               </ul>
@@ -71,22 +71,22 @@
               <ul class="mt-4 space-y-4">
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    Консультация
+                    Замер
                   </a>
                 </li>
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    Обслуживание
+                    Доставка
                   </a>
                 </li>
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    Гарантии
+                    Грузчики
                   </a>
                 </li>
                 <li>
                   <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
-                    Ремонт
+                    Установка
                   </a>
                 </li>
               </ul>
@@ -125,7 +125,7 @@
             Коммерческое предложение
           </h4>
           <p class=" mt-4 text-base leading-6 text-gray-300">
-            Отправьте свою почту и получите предложение о сотрудничестве.
+            Вы производитель или поставщик? Желаете стать нашим партнёром? Отправьте почту и получите коммерческое предложение.
           </p>
 
           <form class="border-t border-gray-700 p-5 mt-4 sm:flex sm:max-w-md">
