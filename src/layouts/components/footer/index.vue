@@ -141,7 +141,7 @@
       </div>
       <div class="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
         <p class="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">
-          &copy; 2020-2021 Все права защищены.
+          &copy; 2002-2021 Все права защищены.
         </p>
       </div>
     </div>

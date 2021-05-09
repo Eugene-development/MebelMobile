@@ -95,7 +95,7 @@
                         Замер
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Доверьте точные и ответственные работы специалисту.
                       </p>
                     </div>
                   </a>
@@ -111,7 +111,7 @@
                         Доставка
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Организуем доставку гарнитура в удобное для вас время.
                       </p>
                     </div>
                   </a>
@@ -127,7 +127,7 @@
                         Грузчики
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Поднимем изделие на этаж в целости и сохранности.
                       </p>
                     </div>
                   </a>
@@ -143,7 +143,7 @@
                         Установка
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Качественно и быстро осуществим установку гарнитура.
                       </p>
                     </div>
                   </a>

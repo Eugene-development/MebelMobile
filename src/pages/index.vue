@@ -10,7 +10,7 @@
 
           <main class="h-50 pt-10 mb-20 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
             <div class="mt-10 sm:text-center lg:text-left">
-              <p class="mb-10 font-sans tracking-tight leading-10 font-semibold text-gray-500 sm:text-2xl sm:leading-none md:text-2xl">
+              <p class="mb-10 font-sans tracking-tight leading-10 font-semibold text-teal-800 sm:text-2xl sm:leading-none md:text-2xl">
                 Компания "МебельМобайл"
               </p>
               <h1 class="mb-10 font-sans text-4xl tracking-tight leading-10 font-semibold text-gray-900 sm:text-6xl sm:leading-none md:text-6xl">
@@ -23,7 +23,7 @@
                 Выезд замерщика в черте города бесплатно</p>
               <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-md shadow">
-                  <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-teal-800 hover:bg-teal-500 focus:outline-none focus:border-teal-800 focus:shadow-outline-teal transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
+                  <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-teal-800 hover:bg-teal-600 focus:outline-none focus:border-teal-800 focus:shadow-outline-teal transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
                     Запись на замер
                   </a>
                 </div>
@@ -222,12 +222,12 @@
                       <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
                     </svg>
                     <p class="relative">
-                      Tincidunt integer commodo, cursus etiam aliquam neque, et. Consectetur pretium in volutpat, diam. Montes, magna cursus nulla feugiat dignissim id lobortis amet.
+                      Главной задачей я вижу полное удовлетворение от использования кухонного гарнитура хозяйкой независимо от размеров помещения и класса изделия.
                     </p>
                   </div>
 
                   <footer class="mt-4">
-                    <p class="text-base font-semibold text-teal-200">Иван Иванович Иванов, <br> менеджер</p>
+                    <p class="text-base font-semibold text-teal-200">Стрельцов Сергей Александрович, <br> директор по развитию</p>
                   </footer>
                 </blockquote>
               </div>
