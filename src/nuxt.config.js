@@ -46,15 +46,6 @@ export default {
     ['@nuxtjs/google-analytics', {
       id: ''
     }],
-    ['@nuxtjs/yandex-metrika', {
-      id: '',
-      webvisor: true,
-      // clickmap:true,
-      // useCDN:false,
-      // trackLinks:true,
-      // accurateTrackBounce:true,
-    }
-    ],
   ],
   /*
   ** Axios module configuration
