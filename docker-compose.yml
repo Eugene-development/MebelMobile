@@ -5,10 +5,10 @@ services:
     build:
       context: .
       dockerfile: ./docker/node/Dockerfile
-    container_name: "${COMPOSE_PROJECT_NAME}_APP"
+    container_name: cd
     restart: always
     ports:
-      - "5000:5000"
+      - "4130:4130"
     command:
       "npm run start"
 
@@ -18,7 +18,7 @@ services:
     image: nginx:1.13
     container_name: "${COMPOSE_PROJECT_NAME}_NGINX"
     ports:
-      - "5005:80"
+      - "4135:80"
     volumes:
       - ./:/var/www
       - ./docker/nginx/conf.d/:/etc/nginx/conf.d/

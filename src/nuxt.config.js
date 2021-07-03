@@ -2,7 +2,7 @@ export default {
   mode: 'universal',
 
   server: {
-    port: 5000,
+    port: 4130,
     host: '0.0.0.0'
   },
   /*
@@ -30,7 +30,10 @@ export default {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [],
+  plugins: [
+    '~/plugins/vue-lodash',
+    '~/plugins/axios'
+  ],
   /*
   ** Nuxt.js dev-modules
   */
