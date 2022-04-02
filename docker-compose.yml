@@ -7,8 +7,6 @@ services:
       dockerfile: ./docker/node/Dockerfile
     container_name: "${COMPOSE_PROJECT_NAME}_NUXT"
     restart: always
-    ports:
-      - "4130:4130"
     command:
       "npm run start"
 
